@@ -1,10 +1,4 @@
-<html>
-<center>
 # **The Spectrum +2A PSU Schematics**
-</center>
-<br>
-</html>
-
 
 One day I bought a broken Spectrum.  In fixing it I reverse engineered the PSU
 

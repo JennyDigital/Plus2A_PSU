@@ -13,6 +13,7 @@ Since this is a helpful resource, I thought I'd just share it with the world.
 ### *I would be greatful for any feedback.*
 
 <center>
-![Thumbs Up](thumbsup.jpg)
+
 </center>
 </html>
+![Thumbs Up](thumbsup.jpg)
